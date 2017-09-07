@@ -1,0 +1,42 @@
+.page-header {
+  margin-top: 20px;
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+.select-sort {
+  width: 33%;
+  margin: 40px 0px;
+}
+
+.implement-sort {
+  width: 66%;
+}
+
+.sub-header {
+  margin: 40px 0px;
+  text-align: left;
+}
+
+.btn {
+  background-color: #F1F1F2;
+  border-color: black;
+  border: black;
+}
+
+.btn:hover {
+  background-color: #1995AD;
+}
+
+.selected {
+  background-color: #1995AD;
+}
+
+.shuffle-button {
+  margin: 20px;
+  border-radius: 20px;
+  width: 200px;
+  background-color: #82ca9d;
+  font-family: "Avenir";
+  border-color: black;
+}
